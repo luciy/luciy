@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luciy)
+<div align="center">
+    <img src="https://github-readme-stats.nthnchu.vercel.app/api?username=luciy&cache_seconds=1800&count_private=true&include_all_commits=true&line_height=27&show_icons=true" />
+    &nbsp;&nbsp;&nbsp;
+    <img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/top-langs?username=luciy&cache_seconds=1800" />
+  </div>
+</div>
