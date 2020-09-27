@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Shake up! 🎲🔥</h3>
+  <h3>Shake it up! 🎲🔥</h3>
 </div>
 <hr/>
 <div>
